@@ -1,0 +1,9 @@
+@tailwind base;
+
+/* your custom css */
+body {
+    @apply bg-red-100 text-gray-700;
+}
+
+@tailwind components;
+@tailwind utilities;
